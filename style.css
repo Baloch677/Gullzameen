@@ -1,0 +1,73 @@
+.header{
+    
+    
+}
+
+.logo{
+    border: solid;
+    border-color: brown;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    border: solid;
+    border-color: brown;
+}
+
+.body{
+    border: solid;
+    border-color: brown;
+    margin: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.body-main{
+    display: flex;
+    justify-content: center;
+    border: solid;
+    border-color: brown;
+    flex-direction: row;
+    margin: 10%;
+    padding: 5%;
+}
+
+.search{
+    border: solid;
+    border-color: brown;
+}
+
+.body-container{
+    border: solid;
+    border-color: brown;
+
+}
+
+.footer{
+    border: solid;
+    border-color: brown;
+    
+}
+
+.contact-bar{
+    border: solid;
+    border-color: brown;
+    margin: 5%;
+
+}
+
+.phone-email{
+    border: solid;
+    border-color: brown;
+    margin: 5%;
+}
+
+.socials{
+    border: solid;
+    border-color: brown;
+    margin: 5%;
+    padding: 5%;
+}
+
